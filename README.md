@@ -14,6 +14,6 @@ AI 🤖
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOEL-code&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=NOEL-code&show_icons=true">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={junusong12})](https://solved.ac/{junusong12})
 
 
