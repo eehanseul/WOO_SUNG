@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=👨‍💻👨‍💻👨‍💻&animation=fadeIn)
 # Work History
- 국민연금공단 주임 (행정직 6급) 2017. 12~2023. 12 National Pension Service
- <img src="{https://github.com/NOEL-code/WOO_SUNG/issues/1#issue-2058056664}"/>
+ 국민연금공단 주임 (행정직 6급) 2017. 12~2023. 12 National Pension Service<img src="{https://github.com/NOEL-code/WOO_SUNG/issues/1#issue-2058056664}"/>
 
 # Education
  한양대학교 정보시스템학과 4학년 Hanyang University Information System
