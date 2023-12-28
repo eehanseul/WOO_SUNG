@@ -18,8 +18,8 @@ Software Engineering with LG
 github: https://github.com/choijungkang/InsomniaDiary  
 YouTube: https://www.youtube.com/watch?v=L3_mRzCGa24  
 
-Web System Programing  
 
+Web System Programing  
 github: https://github.com/jun980920/websp  
 
 
